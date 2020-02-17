@@ -1,5 +1,3 @@
-import GooglePayButton from './GooglePayButton'
+import GooglePayButton from './GooglePayButton.vue'
 
-module.exports = {
-  GooglePayButton
-}
+export default GooglePayButton
