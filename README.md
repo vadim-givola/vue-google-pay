@@ -1,2 +1,2 @@
-# vue-google-pay
-Simple vue wrapper for Google Pay
+# Vue Google Pay
+A Vue wrapper for Google Pay
